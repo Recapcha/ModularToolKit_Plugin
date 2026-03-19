@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ModularToolkit",
+	"Description": "This is a toolkit for faster work in unreal engine projects",
+	"Category": "Other",
+	"CreatedBy": "Nikolai May",
+	"CreatedByURL": "https://www.linkedin.com/in/nikolai-may/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
