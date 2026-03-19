@@ -50,3 +50,10 @@ Drop & Enable: Add to the Plugins folder and activate.
 Reference & Copy: Open the Master Material, copy the optimized node blocks, and paste them into your project-specific materials.
 
 No Dependencies: Since nodes are copied, your project stays clean and independent of the plugin in the long run.
+
+
+![Shader Graph](PreviewImages/image1.png)
+![Shader Graph](PreviewImages/image2.png)
+![Shader Graph](PreviewImages/image3.png)
+![Shader Graph](PreviewImages/image4.png)
+![Shader Graph](PreviewImages/image5.png)
